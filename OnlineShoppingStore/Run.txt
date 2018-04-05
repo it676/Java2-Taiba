@@ -1,0 +1,224 @@
+run:
+^^^^^^ Welcome to our Camera Online Store ^^^^^
+*****************************************
+Are you a customer or an admin?
+  (1) for user 
+  (2) for admin
+  (3) to exit
+1
+Choose the required operations from the list below:
+  (1) Display all products 
+  (2) Add a product to the shopping cart by id 
+  (3) Go back to main menu
+1
+The list of available products: 
+ 
+- Product ID: 0001
+- Product Name: Nikon D3300 w/ AF-P DX 18-55mm VR Digital SLR
+- Product Supplier: Nikon
+- Product Price: 396.95
+**********************************************
+- Product ID: 0002
+- Product Name: Canon EOS Rebel T6 Digital SLR Camera Kit with EF-S 18-55mm f/3.5-5.6 IS II Lens
+- Product Supplier: Canon
+- Product Price: 400.95
+**********************************************
+- Product ID: 0003
+- Product Name: Nikon D3400 w/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR
+- Product Supplier: Nikon
+- Product Price: 996.95
+**********************************************
+- Product ID: 0004
+- Product Name: Nikon D7200 DX-format Black Digital SLR Camera Kit (1555)
+- Product Supplier: Nikon
+- Product Price: 188.25
+**********************************************
+- Product ID: 0005
+- Product Name: Canon G7X Mark II Digital Camera - Wi-Fi & NFC Enabled
+- Product Supplier: Canon
+- Product Price: 596.95
+**********************************************
+Another user operation? (0) for yes | (1) for No.
+0
+Choose the required operations from the list below:
+  (1) Display all products 
+  (2) Add a product to the shopping cart by id 
+  (3) Go back to main menu
+2
+Enter the id of the product:
+0002
+Enter the product quantity:
+2
+Your cart now has the following items: 
+- Product ID: 0002
+- Product Name: Canon EOS Rebel T6 Digital SLR Camera Kit with EF-S 18-55mm f/3.5-5.6 IS II Lens
+- Product Supplier: Canon
+- Product Price: 400.95
+**********************************************
+Quantity: 2
+----------------------------------------------
+Another user operation? (0) for yes | (1) for No.
+1
+Are you a customer or an admin?
+  (1) for user 
+  (2) for admin
+  (3) to exit
+2
+Choose the required operations from the list below:
+  (1) Display all products 
+  (2) Display all accounts
+  (3) Add a product  
+  (4) Delete a product 
+  (5) Go back to main menu
+2
+The list of accounts: 
+ 
+Account ID: 0001
+Account username: Salam
+Password: 1234
+Customer details for this account:
+- name: AbdulSalam Ahmad
+- address: 1223 Sultanah - Medina
+- email: salam@hotmail.com
+- phone number: 05555343535
+**********************************************
+Account ID: 0002
+Account username: Rawan
+Password: 1111
+Customer details for this account:
+- name: Rawan Khaled
+- address: 1223 Alaziziah - Medina
+- email: rawan@hotmail.com
+- phone number: 05555343435
+**********************************************
+Account ID: 0003
+Account username: Hasan
+Password: 1234
+Customer details for this account:
+- name: Hasan Abdullah
+- address: 1111 Albadrani - Medina
+- email: hasan@hotmail.com
+- phone number: 05253343535
+**********************************************
+Account ID: 0004
+Account username: Lamia
+Password: 1551
+Customer details for this account:
+- name: Lamia Mohammed
+- address: 1263 Almatar - Medina
+- email: lamia@hotmail.com
+- phone number: 05557743435
+**********************************************
+Another admin operation? (0) for yes| (1) for No
+0
+Choose the required operations from the list below:
+  (1) Display all products 
+  (2) Display all accounts
+  (3) Add a product  
+  (4) Delete a product 
+  (5) Go back to main menu
+3
+Enter the product id: 
+0006
+Enter the product name: 
+LG Camera
+Enter the product supplier: LG
+Enter the product price: 330.66
+Great! The product has been added!
+Another admin operation? (0) for yes| (1) for No
+0
+Choose the required operations from the list below:
+  (1) Display all products 
+  (2) Display all accounts
+  (3) Add a product  
+  (4) Delete a product 
+  (5) Go back to main menu
+1
+The list of available products: 
+ 
+- Product ID: 0001
+- Product Name: Nikon D3300 w/ AF-P DX 18-55mm VR Digital SLR
+- Product Supplier: Nikon
+- Product Price: 396.95
+**********************************************
+- Product ID: 0002
+- Product Name: Canon EOS Rebel T6 Digital SLR Camera Kit with EF-S 18-55mm f/3.5-5.6 IS II Lens
+- Product Supplier: Canon
+- Product Price: 400.95
+**********************************************
+- Product ID: 0003
+- Product Name: Nikon D3400 w/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR
+- Product Supplier: Nikon
+- Product Price: 996.95
+**********************************************
+- Product ID: 0004
+- Product Name: Nikon D7200 DX-format Black Digital SLR Camera Kit (1555)
+- Product Supplier: Nikon
+- Product Price: 188.25
+**********************************************
+- Product ID: 0005
+- Product Name: Canon G7X Mark II Digital Camera - Wi-Fi & NFC Enabled
+- Product Supplier: Canon
+- Product Price: 596.95
+**********************************************
+- Product ID: 0006
+- Product Name: LG Camera
+- Product Supplier: LG
+- Product Price: 330.66
+**********************************************
+Another admin operation? (0) for yes| (1) for No
+0
+Choose the required operations from the list below:
+  (1) Display all products 
+  (2) Display all accounts
+  (3) Add a product  
+  (4) Delete a product 
+  (5) Go back to main menu
+4
+Enter the index of the product to be deleted:
+5
+Another admin operation? (0) for yes| (1) for No
+0
+Choose the required operations from the list below:
+  (1) Display all products 
+  (2) Display all accounts
+  (3) Add a product  
+  (4) Delete a product 
+  (5) Go back to main menu
+1
+The list of available products: 
+ 
+- Product ID: 0001
+- Product Name: Nikon D3300 w/ AF-P DX 18-55mm VR Digital SLR
+- Product Supplier: Nikon
+- Product Price: 396.95
+**********************************************
+- Product ID: 0002
+- Product Name: Canon EOS Rebel T6 Digital SLR Camera Kit with EF-S 18-55mm f/3.5-5.6 IS II Lens
+- Product Supplier: Canon
+- Product Price: 400.95
+**********************************************
+- Product ID: 0003
+- Product Name: Nikon D3400 w/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR
+- Product Supplier: Nikon
+- Product Price: 996.95
+**********************************************
+- Product ID: 0004
+- Product Name: Nikon D7200 DX-format Black Digital SLR Camera Kit (1555)
+- Product Supplier: Nikon
+- Product Price: 188.25
+**********************************************
+- Product ID: 0005
+- Product Name: Canon G7X Mark II Digital Camera - Wi-Fi & NFC Enabled
+- Product Supplier: Canon
+- Product Price: 596.95
+**********************************************
+Another admin operation? (0) for yes| (1) for No
+1
+Are you a customer or an admin?
+  (1) for user 
+  (2) for admin
+  (3) to exit
+3
+Thanks for visiting our store!
+BUILD SUCCESSFUL (total time: 2 minutes 29 seconds)
